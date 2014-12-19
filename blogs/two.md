@@ -1,6 +1,6 @@
 ## Lorem Ipsum Number Two ##
 
-Lorem ipsum dolor sit amet, et ius ceteros appellantur, te eros audire sadipscing nam. In hinc suscipiantur pri, no dissentiet deterruisset pro. Pro at saepe invidunt [mediocrem](/blog/one). Nam quem commune ei.
+Lorem ipsum dolor sit amet, et ius ceteros appellantur, te eros audire sadipscing nam. In hinc suscipiantur pri, no dissentiet deterruisset pro. Pro at saepe invidunt [mediocrem](/#/blog/one). Nam quem commune ei.
 
 Minim impetus est ne. Vix *omnium* cetero offendit ut, vivendum invenire ex quo, est atqui vulputate mediocritatem ei. Te mea vulputate referrentur, cum ex vidisse offendit. Ex sea dicat **vituperatoribus**, no evertitur intellegat scripserit mea.
 
