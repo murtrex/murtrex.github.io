@@ -13,14 +13,20 @@ var murtrexBlog = angular.module('murtrexBlog', ['hc.marked', 'ngRoute'])
 	$scope.params = $routeParams;
 })
 
-.config(function($routeProvider, $locationProvider){
+.config(function($routeProvider){
 	$routeProvider
 		.when('/', {
-			templateUrl: 'feed.html',
+			templateUrl: '/chunks/feed.html',
 			controller: 'feedController'
 		})
 		.when('/blog/:blogID', {
-			templateUrl: 'blog.html',
+			templateUrl: '/chunks/blog.html',
 			controller: 'blogController'
+		})
+		.when('/oops', {
+			templateUrl: '/chunks/oops.html'	
+		})
+		.otherwise({
+			redirectTo: '/oops'
 		});
 });
